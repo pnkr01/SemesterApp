@@ -34,9 +34,6 @@
       <a href="#why-semesterapp-">Aim</a>
     </li>
     <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
       <a href="#tech-stacks">Tech Stacks</a>
     </li>
     <li><a href="#app-screenshots">App ScreenShots</a></li>
@@ -46,13 +43,6 @@
 ## Why semesterapp ?
 
 This app aims to remove the proxy attendence and shows your college results, attendence,results etc.
-
-## About The Project
-
-<div align="center">
-<!-- <img alt="Semester-App Animation" src="https://user-images.githubusercontent.com/83778936/189530118-3cb2cd57-8ea4-4078-8b86-32bb12dc57e5.gif">
-</div> -->
-
 
 ## Key Features Implemented
 
@@ -77,7 +67,7 @@ This app aims to remove the proxy attendence and shows your college results, att
 
 ## APP Screenshots
 
-<div align="center">
+<div>
 
 <!-- ss -->
 ![f](https://user-images.githubusercontent.com/83778936/216366512-14139ee5-466d-43fd-a69a-e1f72e87baf0.jpg)
