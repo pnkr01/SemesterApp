@@ -73,10 +73,6 @@ This app aims to remove the proxy attendence and shows your college results, att
 ![f](https://user-images.githubusercontent.com/83778936/216366512-14139ee5-466d-43fd-a69a-e1f72e87baf0.jpg)
 ![e](https://user-images.githubusercontent.com/83778936/216366766-0702e688-e968-4fc9-b9da-0c7b906d00f2.jpg)
 ![a](https://user-images.githubusercontent.com/83778936/216366778-bdde2b7d-571a-4547-84ba-274d5013f366.jpg)
-![b](https://user-images.githubusercontent.com/83778936/216366790-f6b231c4-ac33-41f6-9baf-be8e3bbbcffc.jpg)
-![c](https://user-images.githubusercontent.com/83778936/216366802-aeab4627-f51d-4586-84fb-ff1a5a57dd43.jpg)
-![d](https://user-images.githubusercontent.com/83778936/216366807-c70afb93-d60e-4e27-aeb2-e2159f59367d.jpg)
-
 </div>
 
 ## Contributing
